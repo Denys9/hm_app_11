@@ -20,7 +20,7 @@ def denyskaa():
                 l = l.reverse()
                 print(l)
                 del lst[0]
-        print("****DONE****")
+        print("<><><><><><><><><>")
     except Exception as ex:
         print(f"Error: {ex}")
 
